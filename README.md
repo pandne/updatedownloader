@@ -7,3 +7,11 @@
 +cr0nus Undetected (COMMING SOON!!!)
 
 +LEGEND-INJECTOR
+
+//fixed:
+
+-fixed text
+
+-fixed update bottom
+
+-fixed website bottom

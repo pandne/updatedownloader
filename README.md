@@ -1,7 +1,6 @@
-+change menu 
++Add auto junkcode adder
 
++fixed text
 
-+add update bottom
++cr0nus Undetected (COMMING SOON!!!)
 
-
-+add cr0nus (Detected) undetected comming soon

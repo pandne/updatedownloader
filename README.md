@@ -1,10 +1,12 @@
-//LEGEND-DOWNLOADER 1.4 
+//LEGEND-DOWNLOADER 2.0
 
 Logs:
 
-+Spamware (spambot)
+-New Menu Style
 
-+cr0nus Undetected (COMMING SOON!!!)
++Steam Achievement Manager
+
++cr0nus Undetected 
 
 
 

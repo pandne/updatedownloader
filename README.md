@@ -1,12 +1,13 @@
-//LEGEND-DOWNLOADER 2.0
+//LEGEND-DOWNLOADER 2.2
 
 Logs:
 
--New Menu Style
++TFWARE TF2 CHEAT (STATUS UNKNOW)
 
-+Steam Achievement Manager
+-FIXED some problems
 
-+cr0nus Undetected 
+
+
 
 
 
